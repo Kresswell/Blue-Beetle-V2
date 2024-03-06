@@ -49,7 +49,7 @@ const Heroku = require("heroku-client");
 const gptdm = process.env.GPT_INBOX || 'TRUE';
     const cmd = body.startsWith(prefix);
 //const autobio = process.env.AUTOBIO || 'TRUE';
-const botname = process.env.BOTNAME || 'CLASSIC AI';
+const botname = process.env.BOTNAME || 'BLUE BEETLE';
 const antibot = process.env.ANTIBOT || 'FALSE';
   
     const command = body.replace(prefix, "").trim().split(/ +/).shift().toLowerCase();
@@ -81,9 +81,9 @@ const antibot = process.env.ANTIBOT || 'FALSE';
     };
     const mime = (quoted.msg || quoted).mimetype || "";
             const qmsg = (quoted.msg || quoted);
-    const author = process.env.STICKER_AUTHOR ||'𝐂𝐥𝐚𝐬𝐬𝐢𝐜-𝐀𝐈';
-    const packname = process.env.STICKER_PACKNAME || '𝑪⃪𝒍⃪𝒂⃪𝒔⃪𝒔⃪𝒊⃪𝒄⃪';
-const dev = process.env.DEV || '254742491666'
+    const author = process.env.STICKER_AUTHOR ||'𝐁𝐋𝐔𝐄-𝐁𝐄𝐄𝐓𝐋𝐄 ';
+    const packname = process.env.STICKER_PACKNAME || '𝘿𝙖𝙢𝙤𝙣';
+const dev = process.env.DEV || '254790593618'
 
 const menu = process.env.MENU_TYPE || 'VIDEO';
  const DevDreaded = dev.split(",");
@@ -102,7 +102,7 @@ const groupName = m.isGroup && groupMetadata ? await groupMetadata.subject : "";
 const admin = process.env.ADMIN_MSG || '𝐇𝐮𝐡!\n𝐀𝐝𝐦𝐢𝐦𝐬 𝐨𝐧𝐥𝐲, 𝐃𝐮𝐦𝐦𝐲.';
     const group = process.env.GROUP_ONLY_MSG || '𝐆𝐫𝐨𝐮𝐩 𝐜𝐨𝐦𝐦𝐚𝐧𝐝 𝐍𝐢𝐠𝐠𝐚.';
     const botAdmin = process.env.BOT_ADMIN_MSG || '𝐈𝐦 𝐧𝐨𝐭 𝐚𝐧 𝐚𝐝𝐦𝐢𝐧 𝐌𝐅'
-    const NotOwner = process.env.NOT_OWNER_MSG || '𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐨𝐧𝐥𝐲 ☬';
+    const NotOwner = process.env.NOT_OWNER_MSG || '𝐁𝐞𝐞𝐭𝐥𝐞 𝐨𝐧𝐥𝐲 ☬';
 const wapresence = process.env.WA_PRESENCE || 'recording';
 const antilink = process.env.ANTILINK || 'TRUE';
 const antilinkall = process.env.ANTILINK_ALL || 'TRUE';
@@ -239,7 +239,7 @@ var lod = [
 "☫",
 	"☸",
         "☬𝐏𝐨𝐧𝐠",	
-"𝐂𝐥𝐚𝐬𝐬𝐢𝐟𝐢𝐞𝐝 ☫"
+"𝐁𝐞𝐞𝐭𝐥𝐞 ☫"
 ]
 let { key } = await client.sendMessage(from, {text: '✧𝐏𝐨𝐧𝐠'})
 
@@ -255,9 +255,9 @@ var lod = [
 "《 ███████▒▒▒▒▒》50%",
 "《 ██████████▒▒》80%",
 "《 ████████████》100%",
-"	✦𝐋𝐨𝐚𝐝𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐂𝐥𝐚𝐬𝐬𝐢𝐜! ☫"
+"	✦𝐋𝐨𝐚𝐝𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐁𝐞𝐞𝐭𝐥𝐞! ☫"
 ]
-let { key } = await client.sendMessage(from, {text: '𝐋𝐨𝐚𝐝𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐂𝐥𝐚𝐬𝐬𝐢𝐜! ☬...'})
+let { key } = await client.sendMessage(from, {text: '𝐋𝐨𝐚𝐝𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐁𝐞𝐞𝐭𝐥𝐞! ☬...'})
 
 for (let i = 0; i < lod.length; i++) {
 await client.sendMessage(from, {text: lod[i], edit: key });
@@ -383,9 +383,9 @@ case "help":
 
 		      await loading ()
 
-let cap = `╭════〘 ☬ 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐀𝐈 ☬ 〙═⊷⏣
+let cap = `╭════〘 𝐁𝐋𝐔𝐄 𝐁𝐄𝐄𝐓𝐋𝐄  〙═⊷⏣
 ┃✠╭──────────────┉◕
-┃✠│ 𝗢𝘄𝗻𝗲𝗿 :𝕶⃟ 𝖎⃟ 𝖓⃟ 𝖌⃟ 
+┃✠│ 𝗢𝘄𝗻𝗲𝗿 :𝛫𝛪𝛭𝛭𝑌
 ┃✠│ 𝗨𝘀𝗲𝗿 : ${m.pushName}︎︎
 ┃✠│ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 :${runtime(process.uptime())}
 ┃✠│ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : 𝐋𝐢𝐧𝐮𝐱
@@ -396,7 +396,7 @@ let cap = `╭════〘 ☬ 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐀𝐈 ☬ 〙�
 ┃✠│
 ┃✠│▎▍▌▌▉▏▎▌▉▐▏▌
 ┃✠│▎▍▌▌▉▏▎▌▉▐▏▌
-┃✠│ ☬𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐀𝐈☬
+┃✠│ ☬𝐁𝐋𝐔𝐄 𝐁𝐄𝐄𝐓𝐋𝐄 ☬
 ┃✜│
 ┃╰┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉⏣
 ╰─────────────────⏣
@@ -451,7 +451,7 @@ let cap = `╭════〘 ☬ 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐀𝐈 ☬ 〙�
 ▯╭┄┄┄┄┄┄┄┄···◕
 ┴✠│
 ┃✠│${prefix}𝐀𝐢.
-┃✠│${prefix}𝐊𝐢𝐧𝐠                                                                                                                                                                                                                                                                                
+┃✠│${prefix}𝐊𝐢𝐧𝐠𝐆                                                                                                                                                                                                                                                                                
 ┃✠│${prefix}𝐆𝐩𝐭.
 ┃✠│${prefix}𝐆.
 ┃✠│${prefix}𝐈𝐦𝐠.
@@ -516,7 +516,7 @@ let cap = `╭════〘 ☬ 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐀𝐈 ☬ 〙�
 ┃✠│${prefix}𝐑𝐞𝐯𝐨𝐤𝐞.
 ┃✠│
 ┃✜╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅⏣
-┃➠    ▒▓☫ 𝐌𝐚𝐝𝐞 𝐁𝐲 𝕶⃟ 𝖎⃟ 𝖓⃟ 𝖌⃟  ☫▓▒ 
+┃➠    ▒▓☫ 𝐌𝐚𝐝𝐞 𝐁𝐲 𝘿𝙖𝙢𝙤𝙣 ▓▒ 
 ╰════════════════⊷⏣`;
 
 if (menu === 'VIDEO') {
