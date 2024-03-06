@@ -34,7 +34,7 @@ DEPLOY ON HEROKU<br>
   <br>
   
 
-***Made on Earth by 𝐂𝐋𝐀𝐒𝐒𝐈𝐂***
+***Made on Earth by 𝑲𝒊𝒏𝒈 𝑮 ***
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
@@ -64,7 +64,7 @@ Linking/Pairing:[https://replit.com/@pesguru02/Pairing-Classic-Ai]
     
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/Samue-l1/Black-Mamba-Ai/fork)
+- Fork this repo by tapping  [here](https://github.com/Madmkisii/Blue-Beetle-V2/fork)
 
 
 - Upload the creds.json that you received to the dreaded1 folder.
@@ -90,5 +90,5 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 [MIT License](https://github.com/Samue-l1/Black-Mamba-Ai/blob/main/LICENSE)
 
-Copyright (c) 2024  𝐂𝐋𝐀𝐒𝐒𝐈𝐂
+Copyright (c) 2024   𝐁𝐞𝐞𝐭𝐥𝐞 
 
