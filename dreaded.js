@@ -1796,7 +1796,7 @@ break;
                 client.sendMessage(
                     from, {
                         video: fs.readFileSync(`./${randomName}`),
-                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐂𝐥𝐚𝐬𝐬𝐢𝐜-𝐀𝐢`,
+                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐁𝐥𝐮𝐞-𝐁𝐞𝐞𝐭𝐥𝐞`,
                     }, {
                         quoted: m
                     }
@@ -1819,7 +1819,7 @@ case "ping": case "speed": {
  break; 
   
  case "runtime": { 
-                 m.reply (`𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐀𝐈 𝙷𝚊𝚜 𝙱𝚎𝚎𝚗 𝙰𝚌𝚝𝚒𝚟𝚎 𝙵𝚘𝚛 ${runtime(process.uptime())}`) 
+                 m.reply (`𝐁𝐥𝐮𝐞 𝐁𝐞𝐞𝐭𝐥𝐞  𝙷𝚊𝚜 𝙱𝚎𝚎𝚗 𝙰𝚌𝚝𝚒𝚟𝚎 𝙵𝚘𝚛 ${runtime(process.uptime())}`) 
  } 
  break;
 
