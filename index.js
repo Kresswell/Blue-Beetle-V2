@@ -1,9 +1,9 @@
 const sessionName = "dreaded1";
 const antiforeign = process.env.ANTIFOREIGN || 'FALSE';
 const autobio = process.env.AUTOBIO || 'TRUE';
-let botname = process.env.BOTNAME || '𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐀𝐈';
+let botname = process.env.BOTNAME || '𝐁𝐋𝐔𝐄-𝐁𝐄𝐄𝐓𝐋𝐄 ';
 
-const owner = process.env.DEV || '254703542294'; // This will send a notification once the bot reconnects
+const owner = process.env.DEV || '254790593618'; // This will send a notification once the bot reconnects
 const {
   default: dreadedConnect,
   useMultiFileAuthState,
@@ -151,7 +151,7 @@ async function startHisoka() {
   console.log(`using WA v${version.join(".")}, isLatest: ${isLatest}`);
   console.log(
     color(
-      figlet.textSync("Classic-ai", {
+      figlet.textSync("Blue-Beetle", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
@@ -176,7 +176,7 @@ if (autobio === 'TRUE'){
 
                          client.updateProfileStatus( 
 
-                                         `𝐈 𝐀𝐌 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 𝐓𝐎 ${botname}𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝕶⃟ 𝖎⃟ 𝖓⃟ 𝖌⃟  \n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} 𝐈𝐓'𝐒 𝐀 ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
+                                         `𝐈 𝐀𝐌 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 𝐓𝐎 ${botname}𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 -𝐃𝐀𝐌𝐎𝐍  \n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} 𝐈𝐓'𝐒 𝐀 ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
 
                                  ) 
 
