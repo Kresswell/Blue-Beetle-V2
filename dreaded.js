@@ -361,7 +361,7 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
   
 
     if (cmd && !m.isGroup) {
-      console.log(chalk.black(chalk.bgWhite("[ Classic-ai ]")), color(argsLog, "turquoise"), chalk.magenta("From"), chalk.green(pushname), chalk.yellow(`[ ${m.sender.replace("@s.whatsapp.net", "")} ]`));
+      console.log(chalk.black(chalk.bgWhite("[ Blue-Beetle]")), color(argsLog, "turquoise"), chalk.magenta("From"), chalk.green(pushname), chalk.yellow(`[ ${m.sender.replace("@s.whatsapp.net", "")} ]`));
     } else if (cmd && m.isGroup) {
       console.log(
         chalk.black(chalk.bgWhite("[ LOGS ]")),
@@ -385,7 +385,7 @@ case "help":
 
 let cap = `╭════〘 𝐁𝐋𝐔𝐄 𝐁𝐄𝐄𝐓𝐋𝐄  〙═⊷⏣
 ┃✠╭──────────────┉◕
-┃✠│ 𝗢𝘄𝗻𝗲𝗿 :𝛫𝛪𝛭𝛭𝑌
+┃✠│ 𝗢𝘄𝗻𝗲𝗿 :𝑲𝒊𝒏𝒈 𝑮
 ┃✠│ 𝗨𝘀𝗲𝗿 : ${m.pushName}︎︎
 ┃✠│ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 :${runtime(process.uptime())}
 ┃✠│ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : 𝐋𝐢𝐧𝐮𝐱
@@ -539,10 +539,10 @@ client.sendMessage(m.chat, {
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: `𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐀𝐈`,
+                                title: `𝐁𝐋𝐔𝐄-𝐁𝐄𝐄𝐓𝐋𝐄 `,
                                 body: `${runtime(process.uptime())}`,
-                                thumbnail: fs.readFileSync('./𝐁𝐥𝐚𝐜𝐤_𝐌𝐚𝐦𝐛𝐚_𝐀𝐈.jpg'),
-                                sourceUrl: 'https://wa.me/254742491666?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
+                                thumbnail: fs.readFileSync('./𝕭𝖑𝖚𝖊_𝕭𝖊𝖊𝖙𝖑𝖊.jpg'),
+                                sourceUrl: 'https://wa.me/254790593618?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
@@ -1189,7 +1189,7 @@ await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮
  case 'sc': case 'script': case 'repo':
 
  client.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/8b12332b03df8082ab7a5.jpg` }, caption: 
-`👋🏻 Hi *${pushname}*,You can deploy 𝐁𝐋𝐔𝐄 𝐁𝐄𝐄𝐓𝐋𝐄 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/Samue-l1/Black-Mamba-Ai\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐀𝐢 without scanning any qr code\n\n [https://replit.com/@pesguru02/Pairing-Classic-Ai]\n\nMade on Earth by 𝕶⃟ 𝖎⃟ 𝖓⃟ 𝖌⃟ ⸼` });
+`👋🏻 Hi *${pushname}*,You can deploy 𝐁𝐋𝐔𝐄 𝐁𝐄𝐄𝐓𝐋𝐄 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/Madmkisii/Blue-Beetle-V2\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐀𝐢 without scanning any qr code\n\n [https://replit.com/@pesguru02/Pairing-Classic-Ai]\n\nMade on Earth by 𝕶⃟ 𝖎⃟ 𝖓⃟ 𝖌⃟ ⸼` });
 
    break;
                                                   
