@@ -7,10 +7,10 @@
 <img src="https://telegra.ph/file/dd2557ac4a85507c077d7.jpg" width="650" height="500"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=CLASSIC+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=DAMON+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-CLASSIV_CLASSIC-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAMON_KIM-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="'https://wa.me/+254790593618yoh+Damon⸼ +nishow+venye+nitadeploy+beetle-ai'"><img title="Whatsapp" src="'https://wa.me/254790593618yoh+Damon⸼ +nishow+venye+nitadeploy+beetle'?color=green&style=flat-square"></a>
