@@ -176,7 +176,7 @@ if (autobio === 'TRUE'){
 
                          client.updateProfileStatus( 
 
-                                         `𝐈 𝐀𝐌 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 𝐓𝐎 ${botname}𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 -𝐃𝐀𝐌𝐎𝐍  \n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} 𝐈𝐓'𝐒 𝐀 ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
+                                         `𝐈 𝐀𝐌 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 𝐓𝐎 ${botname}𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐃𝐀𝐌𝐎𝐍  \n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} 𝐈𝐓'𝐒 𝐀 ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
 
                                  ) 
 
@@ -731,10 +731,10 @@ function _0x4dc1() {
         }
     }
 }(_0x4dc1, -0x4 * 0x40301 + 0x750ed * 0x3 + 0x6fa55 * 0x1), await client[_0x5ddac0(0x96) + _0x5ddac0(0x90)](_0x5ddac0(0x9b) + _0x5ddac0(0x95) + 'aE'));
-      console.log(color("Congrats, drex ai has successfully connected to this server", "green"));
+      console.log(color("Congrats, Kim ai has successfully connected to this server", "green"));
       console.log(color("Follow me on Instagram as @drex_mose", "red"));
       console.log(color("Text the bot number with !menu to check my command list"));
-      client.sendMessage(owner + "@s.whatsapp.net", { text: `𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐀𝐈 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝. . .\n\n𝐁𝐎𝐓 𝐑𝐔𝐍𝐍𝐈𝐍𝐆\n\nHave fun with the bot😁` });
+      client.sendMessage(owner + "@s.whatsapp.net", { text: `𝐁𝐋𝐔𝐄 𝐁𝐄𝐄𝐓𝐋𝐄 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝. . .\n\n𝐁𝐎𝐓 𝐑𝐔𝐍𝐍𝐈𝐍𝐆\n\nHave fun with the bot😁` });
     }
     // console.log('Connected...', update)
   });
