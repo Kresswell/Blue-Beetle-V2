@@ -1189,7 +1189,7 @@ await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮
  case 'sc': case 'script': case 'repo':
 
  client.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/4ceb5e3d112d1b3be2493.jpg` }, caption: 
-`👋🏻 Hi *${pushname}*,You can deploy 𝐁𝐋𝐔𝐄 𝐁𝐄𝐄𝐓𝐋𝐄 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/Madmkisii/Blue-Beetle-V2\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐁𝐋𝐔𝐄 𝐁𝐄𝐄𝐓𝐋𝐄  without scanning any qr code\n\n [https://replit.com/@pesguru02/Pairing-Classic-Ai]\n\nMade on Earth by 𝘿𝙖𝙢𝙤𝙣` });
+`👋🏻 Hi *${pushname}*,You can deploy 𝐁𝐋𝐔𝐄 𝐁𝐄𝐄𝐓𝐋𝐄 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/Madmkisii/Blue-Beetle-V2\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐁𝐋𝐔𝐄 𝐁𝐄𝐄𝐓𝐋𝐄  without scanning any qr code\n\n [https://replit.com/@kimdave254/Pairing-Blue-Beetle]\n\nMade on Earth by 𝘿𝙖𝙢𝙤𝙣` });
 
    break;
                                                   
