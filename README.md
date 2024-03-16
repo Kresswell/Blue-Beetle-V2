@@ -46,11 +46,11 @@ You will need an openai API key for AI features to work.
 
 # SET-UP
 
-Linking/Pairing:[https://replit.com/@kimdave254/Pairing-blue-beetle]
+Linking/Pairing:[https://replit.com/@Madmkisii/Pairing-blue-beetle-1]
 
 
 ## ` Pair On reptil`
-<h2 align="left">  <a href="[https://replit.com/@kimdave254/Pairing-blue-beetle](https://replit.com/@kimdave254/Pairing-blue-beetle)"><img src="https://repl.it/badge/github/quiec/whatsasena" /> 
+<h2 align="left">  <a href="[https://replit.com/@Madmkisii/Pairing-blue-beetle-1](_https://replit.com/@Madmkisii/Pairing-blue-beetle-1)"><img src="https://repl.it/badge/github/quiec/whatsasena" /> 
 </a>
 </h2>
 
